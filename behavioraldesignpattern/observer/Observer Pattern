@@ -1,0 +1,15 @@
+Observer Pattern
+Observer is a behavioral design pattern that lets you define a subscription
+mechanism to notify multiple objects about any events that happen to the
+object they are observing.
+The object that notifies other objects (because it might have some interesting
+state) is often called 'subject'/'publisher'. All other objects that want to
+track changes to the publisher's state are called 'subscribers'.
+
+The Observer pattern suggests that you add a subscription mechanism to the
+publisher class so individual objects can subscribe to or unsubscribe from
+that publisher. This mechanism consists of :
+        1) an array field for storing a list of references to subscriber
+           objects
+        2) several public methods which allow adding subscribers to and
+           removing them from that list

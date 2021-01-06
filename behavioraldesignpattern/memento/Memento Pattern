@@ -1,0 +1,24 @@
+Memento Pattern
+
+'Memento' is a behavioral design pattern that lets you save and restore
+the previous state of an object without revealing the details of its
+implementation.
+
+The 'Memento' pattern delegates creating the state snapshots to the actual
+owner of that state, the 'originator' object. Hence, instead of other
+objects trying to copy the state of a class from the "outside", the
+class itself can make the snapshot since it has full access to its own
+state.
+The pattern suggests storing the copy of the object's state in a special
+object called 'memento'. The contents of the 'memento' are not accessible
+to any other object except the one that produced it.
+Other objects must communicate with 'mementos' using a limited interface
+which may allow fetching the snapshot's metadata ( creation time, the name
+of the performed operation, etc.), but not the original object's state
+contained in the snapshot.
+Such a restrictive policy lets you store 'mementos' inside other objects,
+usually called 'caretakers'. Since the 'caretaker' works with the 'memento'
+only via the limited interface, it's not able to tamper with the state
+stored inside the 'memento'. At the same time, the 'originator' has access
+to all fields inside the 'memento', allowing it to restore its previous
+state at will.

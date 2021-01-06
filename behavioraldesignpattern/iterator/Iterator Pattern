@@ -1,0 +1,11 @@
+Iterator Pattern
+'Iterator' is a behavioral design pattern that lets you traverse
+elements of a collection without exposing its underlying represen-
+tation (list, stack, tree, etc.).
+
+The main idea of the 'Iterator' pattern is to extract the traversal
+behavior of a collection into a separate object called an 'iterator'.
+An 'Iterator' object encapsulates all of the traversal details, such
+as the current position and how many elements are left till the end.
+Because of this, several 'Iterators' can go through the same collection
+at the same time, independently of each other.
