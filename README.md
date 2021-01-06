@@ -6,6 +6,7 @@ reduced to a minimum so that the idea of the pattern is clear to reader. I have 
 classes contain a lot of comments so that they are very easy to understand even if you are not fluent in Kotlin. At the moment the
 list of design patterns might not be complete but the repository will grow. 
 Here the current list: 
+
 - [Behavioral Design Patterns](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/behavioraldesignpattern): 
   1. [Chain Of Responsibility](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/behavioraldesignpattern/chainofresponsibility)
   2. [Command](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/behavioraldesignpattern/command)
