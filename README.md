@@ -26,6 +26,7 @@ Here the current list:
   4. [Decorator](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/decorator)
   5. [Facade](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/facade)
   6. [Flyweight](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/flyweight)
+  7. [Proxy](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/proxy)
 
 - Creational Design Patterns: (COMING SOON :-) ) 
 
