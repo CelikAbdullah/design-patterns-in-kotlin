@@ -28,7 +28,8 @@ Here the current list:
   6. [Flyweight](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/flyweight)
   7. [Proxy](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/structuraldesignpattern/proxy)
 
-- Creational Design Patterns: (COMING SOON :-) ) 
+- [Creational Design Patterns](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern): 
+  1. [Factory Method](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/factorymethod)
 
 # References 
 [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/): 
