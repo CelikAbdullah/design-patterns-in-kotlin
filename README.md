@@ -40,8 +40,7 @@ of the first books I bought and I learned a lot.
 
 [Design Patterns. Elements of Reusable Object-Oriented Software](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612) : Back in the days, during my study years at the university we had a “Software Engineering” course. For that course, this book was recommended. It is a little bit old but nevertheless,it’s a great resource.
 
-[Dive Into Design Patterns](https://refactoring.guru/design-patterns/book): I can only encourage you to buy and read this book. After reading it, I decided to start a project where I can refresh all my knowledge about software design patterns. Every design pattern chapter in that book has “Real
-world analogy” section describing the pattern applied to a real-world scenario. I can confess that each of those sections was
+[Dive Into Design Patterns](https://refactoring.guru/design-patterns/book): I can only encourage you to buy and read this book. After reading it, I decided to start this repository where I can refresh all my knowledge about software design patterns. Most of the design pattern chapters in that book has a “Real world analogy” section describing the pattern applied to a real-world scenario. I can confess that each of those sections was
 an inspiration for most of my implementations you can see in this repository.
 
 [Refactoring Guru](https://refactoring.guru/): This is the accompanying website of the book “Dive Into Design Patterns” I mentioned above. It has a bunch of code implementations for all design patterns the book contains. If you don’t want to buy the book, then this website is the
