@@ -31,6 +31,7 @@ Here the current list:
 - [Creational Design Patterns](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern): 
   1. [Factory Method](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/factorymethod)
   2. [Abstract Factory](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/abstractfactory)
+  3. [Builder](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/builder)
 
 # References 
 [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/): 
