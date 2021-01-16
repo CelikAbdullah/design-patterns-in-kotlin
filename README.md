@@ -33,6 +33,7 @@ Here the current list:
   2. [Abstract Factory](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/abstractfactory)
   3. [Builder](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/builder)
   4. [Prototype](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/prototype)
+  5. [Singleton](https://github.com/CelikAbdullah/design-patterns-in-kotlin/tree/main/creationaldesignpattern/singleton)
 
 # References 
 [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/): 
